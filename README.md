@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋 I'm Nithu 
+
+### I'm an Electronics and Communication Engineer who has delved into the dynamic universe of data science. I believe that merging my engineering background with the power of data analytics can provide innovative solutions to complex challenges. My journey from circuits to algorithms has been marked by curiosity, adaptability, and a relentless determination to unlock the potential of data.
 
 <!--
 **nithu24/nithu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
