@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nithuanna24@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach out to me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithu-ninan/) 
 
