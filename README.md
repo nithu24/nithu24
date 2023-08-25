@@ -34,6 +34,7 @@
 # 📊 GitHub Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithu24&show_icons=true&locale=en" alt="nithu24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithu24&theme=vue&hide_border=false" /><br/>
 
 
 <!--
