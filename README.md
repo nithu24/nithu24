@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Nithu Ninan </h1>
+<h1 align="center">Hey Everyone 👋 </h1>
 <img align="center" alt="Coding" width="900" height="300" src="https://github.com/nithu24/nithu24/blob/main/gif_new.gif">
 <h3 align="center">I'm an Electronics and Communication Engineer who has delved into the dynamic universe of data science. Merging my engineering background with the power of data analytics, I strive to provide innovative solutions to complex challenges. My journey from circuits to algorithms is marked by curiosity, adaptability, and a relentless determination to unlock the potential of data.</h3>
 
